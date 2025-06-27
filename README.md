@@ -1,7 +1,7 @@
 # 25s_undergraduate_research_on_wireless_communication
 
 ## introduction
-This is a briefly summary of my undergraduate research work during 2025 spring in Prof. Hung-Yu Wei's lab
+This is a brief summary of my undergraduate research work during 2025 spring in Prof. Hung-Yu Wei's lab
 
 
 
